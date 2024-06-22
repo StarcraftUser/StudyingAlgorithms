@@ -19,4 +19,9 @@
       <Filter>header</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ProgrammersAlgorithms\1. 문자열의 뒤의 n글자.cpp">
+      <Filter>ProgrammersAlgorithms</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

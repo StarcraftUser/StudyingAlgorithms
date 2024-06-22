@@ -1,6 +1,6 @@
 #pragma once
-#include "../bits/stdc++.h"
+//#include "../bits/stdc++.h"
 
-#define AlgorithmNumber 0
-#define QuestionNumber 0
+#define AlgorithmNumber 1
+#define QuestionNumber 1
 
