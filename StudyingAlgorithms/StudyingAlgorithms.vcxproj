@@ -134,6 +134,7 @@
     <ClCompile Include="ProgrammersAlgorithms\3. 카운트 업.cpp" />
     <ClCompile Include="ProgrammersAlgorithms\1. 문자열의 뒤의 n글자.cpp" />
     <ClCompile Include="ProgrammersAlgorithms\2. 글자 이어 붙여 문자열 만들기.cpp" />
+    <ClCompile Include="ProgrammersAlgorithms\4. 수 조작하기 1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
