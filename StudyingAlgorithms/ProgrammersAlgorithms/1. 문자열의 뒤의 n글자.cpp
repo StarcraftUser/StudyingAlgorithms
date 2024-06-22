@@ -1,5 +1,7 @@
 #include "../header/pch.h"
 
+
+#if TypesOfAlgorithmSites == 0
 #if AlgorithmNumber == 1
 #include <stdio.h>
 #include <stdbool.h>
@@ -51,6 +53,7 @@ int main()
 	return 0;
 }
 
+#endif
 #endif
 #endif
 
