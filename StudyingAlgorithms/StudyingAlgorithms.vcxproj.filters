@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="bits">
+      <UniqueIdentifier>{281a44f3-68b7-49fc-a56d-ff268652e06d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header">
+      <UniqueIdentifier>{68df8418-9947-4a4e-bdd7-8f809bed4322}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProgrammersAlgorithms">
+      <UniqueIdentifier>{01d3f88a-2c03-4d3d-8c01-0330b6d9e8b4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bits\stdc++.h">
+      <Filter>bits</Filter>
+    </ClInclude>
+    <ClInclude Include="header\pch.h">
+      <Filter>header</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
