@@ -1,5 +1,7 @@
 # Visual Studio cache directory
 .vs/
+Debug/
+Release/
 
 # Prerequisites
 *.d
@@ -33,3 +35,5 @@
 *.exe
 *.out
 *.app
+*.pdb
+
