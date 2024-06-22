@@ -29,6 +29,11 @@
     <ClCompile Include="ProgrammersAlgorithms\3. 카운트 업.cpp">
       <Filter>ProgrammersAlgorithms</Filter>
     </ClCompile>
-    <ClCompile Include="ProgrammersAlgorithms\4. 수 조작하기 1.cpp" />
+    <ClCompile Include="ProgrammersAlgorithms\4. 수 조작하기 1.cpp">
+      <Filter>ProgrammersAlgorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgrammersAlgorithms\5. 마지막 두 원소.cpp">
+      <Filter>ProgrammersAlgorithms</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
