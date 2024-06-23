@@ -136,6 +136,8 @@
     <ClCompile Include="ProgrammersAlgorithms\2. 글자 이어 붙여 문자열 만들기.cpp" />
     <ClCompile Include="ProgrammersAlgorithms\4. 수 조작하기 1.cpp" />
     <ClCompile Include="ProgrammersAlgorithms\5. 마지막 두 원소.cpp" />
+    <ClCompile Include="ProgrammersAlgorithms\6. 이어 붙인 수.cpp" />
+    <ClCompile Include="ProgrammersAlgorithms\7. 원소들의 곱과 합.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

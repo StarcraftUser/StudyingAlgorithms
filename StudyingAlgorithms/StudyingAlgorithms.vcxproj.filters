@@ -35,5 +35,11 @@
     <ClCompile Include="ProgrammersAlgorithms\5. 마지막 두 원소.cpp">
       <Filter>ProgrammersAlgorithms</Filter>
     </ClCompile>
+    <ClCompile Include="ProgrammersAlgorithms\6. 이어 붙인 수.cpp">
+      <Filter>ProgrammersAlgorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgrammersAlgorithms\7. 원소들의 곱과 합.cpp">
+      <Filter>ProgrammersAlgorithms</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
