@@ -3,7 +3,7 @@
 
 #define TypesOfAlgorithmSites 0
 #define AlgorithmNumber 7
-#define QuestionNumber 1
+#define QuestionNumber 2
 
 #include <iostream>
 
