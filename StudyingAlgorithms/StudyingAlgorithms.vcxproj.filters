@@ -10,6 +10,12 @@
     <Filter Include="ProgrammersAlgorithms">
       <UniqueIdentifier>{01d3f88a-2c03-4d3d-8c01-0330b6d9e8b4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ProgrammersAlgorithms\Lv0">
+      <UniqueIdentifier>{3d728f2e-725b-49a2-aaa2-d4ca188bc8e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProgrammersAlgorithms\Lv1">
+      <UniqueIdentifier>{c75eb87f-9dcd-4cc8-9a47-3c996c132718}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bits\stdc++.h">
@@ -21,28 +27,31 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ProgrammersAlgorithms\1. 문자열의 뒤의 n글자.cpp">
-      <Filter>ProgrammersAlgorithms</Filter>
+      <Filter>ProgrammersAlgorithms\Lv0</Filter>
     </ClCompile>
     <ClCompile Include="ProgrammersAlgorithms\2. 글자 이어 붙여 문자열 만들기.cpp">
-      <Filter>ProgrammersAlgorithms</Filter>
+      <Filter>ProgrammersAlgorithms\Lv0</Filter>
     </ClCompile>
     <ClCompile Include="ProgrammersAlgorithms\3. 카운트 업.cpp">
-      <Filter>ProgrammersAlgorithms</Filter>
+      <Filter>ProgrammersAlgorithms\Lv0</Filter>
     </ClCompile>
     <ClCompile Include="ProgrammersAlgorithms\4. 수 조작하기 1.cpp">
-      <Filter>ProgrammersAlgorithms</Filter>
+      <Filter>ProgrammersAlgorithms\Lv0</Filter>
     </ClCompile>
     <ClCompile Include="ProgrammersAlgorithms\5. 마지막 두 원소.cpp">
-      <Filter>ProgrammersAlgorithms</Filter>
+      <Filter>ProgrammersAlgorithms\Lv0</Filter>
     </ClCompile>
     <ClCompile Include="ProgrammersAlgorithms\6. 이어 붙인 수.cpp">
-      <Filter>ProgrammersAlgorithms</Filter>
+      <Filter>ProgrammersAlgorithms\Lv0</Filter>
     </ClCompile>
     <ClCompile Include="ProgrammersAlgorithms\7. 원소들의 곱과 합.cpp">
-      <Filter>ProgrammersAlgorithms</Filter>
+      <Filter>ProgrammersAlgorithms\Lv0</Filter>
     </ClCompile>
     <ClCompile Include="ProgrammersAlgorithms\8. flag에 따라 다른 값 반환하기.cpp">
-      <Filter>ProgrammersAlgorithms</Filter>
+      <Filter>ProgrammersAlgorithms\Lv0</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgrammersAlgorithms\9. 가장 많이 받은 선물.cpp">
+      <Filter>ProgrammersAlgorithms\Lv1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
