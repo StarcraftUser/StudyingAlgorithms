@@ -53,5 +53,8 @@
     <ClCompile Include="ProgrammersAlgorithms\9. 가장 많이 받은 선물.cpp">
       <Filter>ProgrammersAlgorithms\Lv1</Filter>
     </ClCompile>
+    <ClCompile Include="ProgrammersAlgorithms\10. 홀짝에 따라 다른 값 반환하기.cpp">
+      <Filter>ProgrammersAlgorithms\Lv0</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
