@@ -56,5 +56,8 @@
     <ClCompile Include="ProgrammersAlgorithms\10. 홀짝에 따라 다른 값 반환하기.cpp">
       <Filter>ProgrammersAlgorithms\Lv0</Filter>
     </ClCompile>
+    <ClCompile Include="ProgrammersAlgorithms\11. [PCCP 기출문제] 1번 - 붕대 감기.cpp">
+      <Filter>ProgrammersAlgorithms\Lv1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
