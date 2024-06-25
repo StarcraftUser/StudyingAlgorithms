@@ -59,5 +59,6 @@
     <ClCompile Include="ProgrammersAlgorithms\11. [PCCP 기출문제] 1번 - 붕대 감기.cpp">
       <Filter>ProgrammersAlgorithms\Lv1</Filter>
     </ClCompile>
+    <ClCompile Include="ProgrammersAlgorithms\12. 공배수.cpp" />
   </ItemGroup>
 </Project>

@@ -2,7 +2,7 @@
 //#include "../bits/stdc++.h"
 
 #define TypesOfAlgorithmSites 0
-#define AlgorithmNumber 11
+#define AlgorithmNumber 12
 #define QuestionNumber 1
 
 #include <iostream>
