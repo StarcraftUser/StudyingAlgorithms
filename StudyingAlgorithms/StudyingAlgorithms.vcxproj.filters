@@ -65,5 +65,8 @@
     <ClCompile Include="ProgrammersAlgorithms\13. n의 배수.cpp">
       <Filter>ProgrammersAlgorithms\Lv0</Filter>
     </ClCompile>
+    <ClCompile Include="ProgrammersAlgorithms\14. 추억 점수.cpp">
+      <Filter>ProgrammersAlgorithms\Lv1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
