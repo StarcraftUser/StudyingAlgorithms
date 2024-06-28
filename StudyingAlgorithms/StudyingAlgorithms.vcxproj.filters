@@ -71,5 +71,6 @@
     <ClCompile Include="ProgrammersAlgorithms\15. [PCCE 기출문제] 9번 - 이웃한 칸.cpp">
       <Filter>ProgrammersAlgorithms\Lv1</Filter>
     </ClCompile>
+    <ClCompile Include="ProgrammersAlgorithms\16. 두 수의 연산값 비교하기.cpp" />
   </ItemGroup>
 </Project>
