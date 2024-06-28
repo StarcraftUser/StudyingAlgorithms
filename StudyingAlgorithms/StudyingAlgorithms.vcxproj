@@ -138,6 +138,7 @@
     <ClCompile Include="ProgrammersAlgorithms\14. 추억 점수.cpp" />
     <ClCompile Include="ProgrammersAlgorithms\15. [PCCE 기출문제] 9번 - 이웃한 칸.cpp" />
     <ClCompile Include="ProgrammersAlgorithms\16. 두 수의 연산값 비교하기.cpp" />
+    <ClCompile Include="ProgrammersAlgorithms\17. 더 크게 합치기.cpp" />
     <ClCompile Include="ProgrammersAlgorithms\3. 카운트 업.cpp" />
     <ClCompile Include="ProgrammersAlgorithms\1. 문자열의 뒤의 n글자.cpp" />
     <ClCompile Include="ProgrammersAlgorithms\2. 글자 이어 붙여 문자열 만들기.cpp" />
