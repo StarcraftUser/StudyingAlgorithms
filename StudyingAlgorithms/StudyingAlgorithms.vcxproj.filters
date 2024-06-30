@@ -77,5 +77,8 @@
     <ClCompile Include="ProgrammersAlgorithms\17. 더 크게 합치기.cpp">
       <Filter>ProgrammersAlgorithms\Lv0</Filter>
     </ClCompile>
+    <ClCompile Include="ProgrammersAlgorithms\18. 덧칠하기.cpp">
+      <Filter>ProgrammersAlgorithms\Lv1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
