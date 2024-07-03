@@ -83,5 +83,8 @@
     <ClCompile Include="ProgrammersAlgorithms\19. 달리기 경주.cpp">
       <Filter>ProgrammersAlgorithms\Lv1</Filter>
     </ClCompile>
+    <ClCompile Include="ProgrammersAlgorithms\20. [PCCE 기출문제] 1번 - 출력.cpp">
+      <Filter>ProgrammersAlgorithms\Lv0</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
