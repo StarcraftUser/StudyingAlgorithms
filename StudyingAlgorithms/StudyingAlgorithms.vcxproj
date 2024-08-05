@@ -151,6 +151,7 @@
     <ClCompile Include="ProgrammersAlgorithms\7. 원소들의 곱과 합.cpp" />
     <ClCompile Include="ProgrammersAlgorithms\8. flag에 따라 다른 값 반환하기.cpp" />
     <ClCompile Include="ProgrammersAlgorithms\9. 가장 많이 받은 선물.cpp" />
+    <ClCompile Include="ProgrammersAlgorithms\21. [PCCE 기출문제] 2번 - 피타고라스의 정리.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
