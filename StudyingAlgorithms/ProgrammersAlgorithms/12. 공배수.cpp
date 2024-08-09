@@ -12,15 +12,15 @@ using namespace std;
 
 int solution(int number, int n, int m)
 {
-    if (number % n == 0 && number % m == 0) return true;
-    else return false;
+	if (number % n == 0 && number % m == 0) return true;
+	else return false;
 }
 
 int main()
 {
-    cout << solution(60, 3, 2) << '\n';
-    cout << solution(55, 10, 5) << '\n';
-    return 0;
+	cout << solution(60, 3, 2) << '\n';
+	cout << solution(55, 10, 5) << '\n';
+	return 0;
 }
 
 #endif
@@ -29,7 +29,7 @@ int main()
 
 int main()
 {
-    return 0;
+	return 0;
 }
 #endif
 #endif

@@ -16,6 +16,9 @@
     <Filter Include="ProgrammersAlgorithms\Lv1">
       <UniqueIdentifier>{c75eb87f-9dcd-4cc8-9a47-3c996c132718}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ProgrammersAlgorithms\Lv2">
+      <UniqueIdentifier>{38939aa0-51f5-4fe2-9820-027624c87057}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bits\stdc++.h">
@@ -88,6 +91,9 @@
     </ClCompile>
     <ClCompile Include="ProgrammersAlgorithms\21. [PCCE 기출문제] 2번 - 피타고라스의 정리.cpp">
       <Filter>ProgrammersAlgorithms\Lv0</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgrammersAlgorithms\22. 도넛과 막대 그래프.cpp">
+      <Filter>ProgrammersAlgorithms\Lv2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

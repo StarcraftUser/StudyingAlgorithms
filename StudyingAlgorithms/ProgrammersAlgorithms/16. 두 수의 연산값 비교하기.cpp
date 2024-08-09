@@ -9,16 +9,16 @@
 using namespace std;
 
 int solution(int a, int b) {
-    int numAB = stoi(to_string(a) + to_string(b));
-    int temp = 2 * a * b;
-    return numAB > temp ? numAB : temp;
+	int numAB = stoi(to_string(a) + to_string(b));
+	int temp = 2 * a * b;
+	return numAB > temp ? numAB : temp;
 }
 
 int main()
 {
-    cout << solution(2, 91) << '\n';
-    cout << solution(91, 2) << '\n';
-    return 0;
+	cout << solution(2, 91) << '\n';
+	cout << solution(91, 2) << '\n';
+	return 0;
 }
 
 #endif

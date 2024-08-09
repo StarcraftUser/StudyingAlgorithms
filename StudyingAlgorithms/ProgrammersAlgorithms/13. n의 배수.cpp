@@ -10,13 +10,13 @@
 using namespace std;
 
 int solution(int num, int n) {
-    return num % n == 0;
+	return num % n == 0;
 }
 int main()
 {
-    cout << solution(98, 2) << '\n';
-    cout << solution(34, 3) << '\n';
-    return 0;
+	cout << solution(98, 2) << '\n';
+	cout << solution(34, 3) << '\n';
+	return 0;
 }
 
 #endif
@@ -25,7 +25,7 @@ int main()
 
 int main()
 {
-    return 0;
+	return 0;
 }
 #endif
 #endif

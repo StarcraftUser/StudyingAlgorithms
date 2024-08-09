@@ -9,17 +9,17 @@
 using namespace std;
 
 int solution(int a, int b) {
-    string tempString = to_string(a) + to_string(b);
-    int tempNum1 = stoi(tempString);
-    tempString = to_string(b) + to_string(a);
-    int tempNum2 = stoi(tempString);
-    return tempNum1 >= tempNum2 ? tempNum1 : tempNum2;
+	string tempString = to_string(a) + to_string(b);
+	int tempNum1 = stoi(tempString);
+	tempString = to_string(b) + to_string(a);
+	int tempNum2 = stoi(tempString);
+	return tempNum1 >= tempNum2 ? tempNum1 : tempNum2;
 }
 int main()
 {
-    cout << solution(9, 91) << '\n';
-    cout << solution(89, 8) << '\n';
-    return 0;
+	cout << solution(9, 91) << '\n';
+	cout << solution(89, 8) << '\n';
+	return 0;
 }
 
 #endif

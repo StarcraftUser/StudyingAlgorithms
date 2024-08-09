@@ -10,17 +10,17 @@
 using namespace std;
 
 int solution(int a, int b, bool flag) {
-    return flag ? (a + b) : (a - b);
+	return flag ? (a + b) : (a - b);
 }
 
 
 int main()
 {
-    cout << solution(-4, 7, true) << '\n';
-    cout << solution(-4, 7, false);
+	cout << solution(-4, 7, true) << '\n';
+	cout << solution(-4, 7, false);
 
 
-    return 0;
+	return 0;
 }
 
 #endif

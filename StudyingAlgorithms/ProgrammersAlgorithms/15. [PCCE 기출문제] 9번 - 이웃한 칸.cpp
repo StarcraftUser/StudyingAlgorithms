@@ -14,38 +14,38 @@ using namespace std;
 
 int solution(vector<vector<string>> board, int h, int w) {
 
-    int boardnum = board.size();
+	int boardnum = board.size();
 
-    int count = 0;
-    int dh[] = {0, 1, -1, 0};
-    int dw[] = {1, 0, 0, -1};
+	int count = 0;
+	int dh[] = {0, 1, -1, 0};
+	int dw[] = {1, 0, 0, -1};
 
-    for (int i = 0; i < __crt_countof(dh); i++)
-    {
-        int h_check = h + dh[i];
-        int w_check = w + dw[i];
+	for (int i = 0; i < __crt_countof(dh); i++)
+	{
+		int h_check = h + dh[i];
+		int w_check = w + dw[i];
 
-        if (0 <= h_check && h_check < boardnum && 0 <= w_check && w_check < boardnum)
-        {
-            if (board[h][w] == board[h_check][w_check])
-            {
-                count++;
-            }
-        }
-    }
-    return count;
+		if (0 <= h_check && h_check < boardnum && 0 <= w_check && w_check < boardnum)
+		{
+			if (board[h][w] == board[h_check][w_check])
+			{
+				count++;
+			}
+		}
+	}
+	return count;
 }
 
 int main()
 {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
+	ios::sync_with_stdio(0);
+	cin.tie(0);
 
-    cout << solution({ {"blue", "red", "orange", "red"} , {"red", "red", "blue", "orange" }, { "blue", "orange", "red", "red" }, { "orange", "orange", "red", "blue" } }, 1, 1) << '\n';
+	cout << solution({ {"blue", "red", "orange", "red"} , {"red", "red", "blue", "orange" }, { "blue", "orange", "red", "red" }, { "orange", "orange", "red", "blue" } }, 1, 1) << '\n';
 
-    cout << solution({ {"yellow", "green", "blue"} , {"blue", "green", "yellow"} , {"yellow", "blue", "blue" } }, 0, 1) << '\n';
+	cout << solution({ {"yellow", "green", "blue"} , {"blue", "green", "yellow"} , {"yellow", "blue", "blue" } }, 0, 1) << '\n';
 
-    return 0;
+	return 0;
 }
 
 #endif

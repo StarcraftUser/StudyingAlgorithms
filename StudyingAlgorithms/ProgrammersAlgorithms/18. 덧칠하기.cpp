@@ -14,26 +14,26 @@ using namespace std;
 
 int solution(int n, int m, vector<int> section)
 {
-    int answer = 0;
-    int max = 0;
+	int answer = 0;
+	int max = 0;
 
-    for (int& i : section)
-    {
-        if (i < max) continue;
+	for (int& i : section)
+	{
+		if (i < max) continue;
 
-        answer++;
-        max = i + m;
-    }
+		answer++;
+		max = i + m;
+	}
 
-    return answer;
+	return answer;
 }
 
 int main()
 {
-    cout << solution(8, 4, {2, 3, 6}) << '\n';
-    cout << solution(5, 4, { 1, 3 }) << '\n';
-    cout << solution(4, 1, { 1, 2, 3, 4 }) << '\n';
-    return 0;
+	cout << solution(8, 4, {2, 3, 6}) << '\n';
+	cout << solution(5, 4, { 1, 3 }) << '\n';
+	cout << solution(4, 1, { 1, 2, 3, 4 }) << '\n';
+	return 0;
 }
 
 #endif
