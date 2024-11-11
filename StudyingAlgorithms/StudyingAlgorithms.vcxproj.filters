@@ -95,5 +95,8 @@
     <ClCompile Include="ProgrammersAlgorithms\22. 도넛과 막대 그래프.cpp">
       <Filter>ProgrammersAlgorithms\Lv2</Filter>
     </ClCompile>
+    <ClCompile Include="ProgrammersAlgorithms\23. 공원산책.cpp">
+      <Filter>ProgrammersAlgorithms\Lv1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
